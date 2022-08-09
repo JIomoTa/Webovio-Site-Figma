@@ -375,6 +375,15 @@ img {
     width: 15%;
 }
 
+.footer__column-social-link:hover svg {
+    fill: #ffd723;
+}
+
+.footer__column-social-link {
+    padding-right: 11px;
+    font-size: 0;
+}
+
 .footer__container-bottom {
     display: flex;
     align-items: center;
